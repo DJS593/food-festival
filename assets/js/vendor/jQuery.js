@@ -1,3 +1,6 @@
+/* Not using since bootstrap was made a dependency and using webpack */
+
+
 /*!
  * jQuery JavaScript Library v3.4.1
  * https://jquery.com/
